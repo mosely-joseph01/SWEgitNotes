@@ -10,7 +10,10 @@ git checkout <branchName>
 git status
 git merge <branchName>
 git log
+git reflog
 git diff
 git reset --hard <optionalID>
+git tag
+git tag -a '<semversion>' -m '<message>'
 ```
 
