@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Lecture3_demo.txt" />
+  </Folder>
+</Solution>

@@ -13,6 +13,7 @@ git log												# shows commit history
 git reflog											# shows last 15 git actions
 git blame											# shows history of commits with users
 git diff
+git clone <url>										# duplicates a repo
 git reset --hard <optionalID>						# reverts to pervious version
 git tag												# add tag to current commit
 git tag -a '<semversion>' -m '<message>'			# list all tags
